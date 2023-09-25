@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href='../XSL/etudiants.xsl' type='text/xsl' ?>
+<etudiants>
+	<parcours id="1" km="5000"/>
+	<etudiant nom="Mty" prenom="Serena" distance="167"/>
+	<etudiant nom="Da Nazaret" prenom="Nicolas" distance="630"/>
+	<etudiant nom="Eleve1" prenom="Eleve1" distance="60"/>
+	<etudiant nom="Eleve2" prenom="Eleve2" distance="90"/>
+	<etudiant nom="Eleve3" prenom="Eleve3" distance="100"/>
+</etudiants>

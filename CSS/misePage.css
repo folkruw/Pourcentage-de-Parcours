@@ -1,0 +1,42 @@
+body{
+	padding : 2%;
+}
+
+h3{
+	color : #e9e9ed;
+}
+
+h4 {
+	line-height : 2%;
+}
+
+h5 {
+	font-size : 13px;
+	line-height : 2%;
+}
+
+span{
+	font-size : 35px;	
+}
+
+table {
+	margin: auto;
+	width: 100%;
+	border-collapse: collapse;
+	color : #e9e9ed;
+}
+
+th {
+	border: 1px solid black;
+	font-family: calibri;
+	background-color: #393b60;
+	border-collapse: collapse;
+	text-align : center;
+}
+
+td {
+	border: 1px solid black;
+	font-family: calibri;
+	background-color: #4f5172;
+	text-align : center;
+}

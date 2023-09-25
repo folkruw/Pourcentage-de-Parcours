@@ -1,0 +1,29 @@
+.row {
+  padding: 4em 3em;
+}
+
+.textbox {
+  height: 700px;
+}
+
+.progress {
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+.progress-bar {
+  width: 0;
+  border-radius: 20px;
+  position:relative;
+}
+
+.progress-bar span[data-toggle="tooltip"]{
+  width: 16px;
+  height: 16px;
+  border-radius: 20px;
+  background: red;
+  position:absolute;
+  right:0px;
+  top:0;
+}
+
